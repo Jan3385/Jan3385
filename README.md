@@ -72,7 +72,7 @@
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
    <br><div align="center"><img alt="project Showcase" src="/Projects/web-survival.gif"></div>
    <p align="center">
-    A basic 2D web game with procedural cell worlds that allows you to place, destroy and modify very roughly inspired by Minecraft. Features quests, levels, basic crafting and inventory. The lighting is procedurally calculated and at night enemies pathfind to you using the A* algorithm
+    A basic 2D web game with procedural cell worlds that allows you to place, destroy and modify very roughly inspired by Minecraft. Features quests, levels, basic crafting and inventory. The lighting is procedurally calculated and at night enemies pathfind to you using the A* algorithm. Supports a very basic (and unsecured) PHP backend that allows creating accounts and saving your world to a server
    </p>
    <p>
    <a href="https://github.com/Jan3385/WebSurvival">
@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <br><div align="center"><img alt="project Showcase" src="/Projects/portal-gun-mod.png"></div>
     <p align="center">
-      A portal gun mod made for Minecraft Java inspired by the rick & morty's portal gun. Adds several brewing recipes &portal guns for easy world and dimensional travel
+      A portal gun mod made for Minecraft Java inspired by the rick & morty's portal gun. Adds several brewing recipes & portal guns for easy world and dimensional travel
     </p>
     <p>
     <a href="https://modrinth.com/mod/portal-gun-mod">
