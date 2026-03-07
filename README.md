@@ -8,6 +8,7 @@
 <tr>
   <td  width="50%">
     <h3>Planet generator</h3>
+    <img src="https://img.shields.io/github/repo-size/Jan3385/Planet-Generator"><br>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff">
     <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff">
@@ -25,6 +26,7 @@
   
   <td width="50%">
    <h3>VoxaEngine</h3>
+   <img src="https://img.shields.io/github/repo-size/Jan3385/VoxaEngine"><br>
    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff">
    <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff">
@@ -45,6 +47,7 @@
 <tr>
   <td width="50%">
     <h3>YDR7 Keyboard</h3>
+    <img src="https://img.shields.io/github/repo-size/Jan3385/YDR7-Keyboard"><br>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff">
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi">
@@ -61,6 +64,7 @@
   
   <td width="50%">
    <h3>Web Survival game</h3>
+   <img src="https://img.shields.io/github/repo-size/Jan3385/WebSurvival"><br>
    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=444">
@@ -80,6 +84,7 @@
 <tr>
   <td width="50%">
     <h3>Portal Gun Minecraft Mod</h3>
+    <img src="https://img.shields.io/github/repo-size/Jan3385/PortalGunMod"><br>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <br><div align="center"><img alt="project Showcase" src="/Projects/portal-gun-mod.png"></div>
     <p align="center">
