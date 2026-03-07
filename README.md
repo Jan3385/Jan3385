@@ -66,7 +66,7 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=444">
    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
-   <br><div align="center"><img alt="project Showcase" src="/Projects/voxaengine.gif"></div>
+   <br><div align="center"><img alt="project Showcase" src="/Projects/web-survival.gif"></div>
    <p align="center">
     A basic 2D web game with procedural cell worlds that allows you to place, destroy and modify very roughly inspired by Minecraft. Features quests, levels, basic crafting and inventory. The lighting is procedurally calculated and at night enemies pathfind to you using the A* algorithm
    </p>
