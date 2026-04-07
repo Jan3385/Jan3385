@@ -2,7 +2,7 @@
 
 <p align="center">I am a czech student that enjoys <b>programming</b>, working with <b>hardware</b> and sometimes even <b>3D modeling</b></p>
 
-<h2 align="center">My Favourite Projects I Build</h2>
+<h2 align="center">My Favorite Projects I Build</h2>
 
 <table width="100%">
 <tr>
@@ -37,6 +37,7 @@
     A cell based "falling sand" type simulation sandbox engine with GPU heat, pressure & chemical simulations and Box2D cell objects which are capable of reacting with their environment. Built with a custom OpenGL rendering pipeline attached to SDL2. Currently a very rough and sometimes unstable prototype
    </p>
    <p>
+   <img src="https://img.shields.io/badge/Project%20in%20very%20unstable%20state-FF7400">
    <a href="https://github.com/Jan3385/VoxaEngine">
     <img src="https://img.shields.io/badge/View%20Repo-00b894?style=for-the-badge&logo=github&logoColor=white">
    </a>
@@ -88,7 +89,7 @@
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <br><div align="center"><img alt="project Showcase" src="/Projects/portal-gun-mod.png"></div>
     <p align="center">
-      A portal gun mod made for Minecraft Java inspired by the rick & morty's portal gun. Adds several brewing recipes & portal guns for easy world and dimensional travel
+      A portal gun mod made for Minecraft Java inspired by the Rick & Morty's portal gun. Adds several brewing recipes & portal guns for easy world and dimensional travel
     </p>
     <p>
     <a href="https://modrinth.com/mod/portal-gun-mod">
@@ -111,7 +112,7 @@
 
 <br>
 
-<h2 align="center">Favourite tech to work with</h2>
+<h2 align="center">Favorite tech to work with</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,unity,python,ts,linux,arch,raspberrypi,blender,vscode&perline=6">
