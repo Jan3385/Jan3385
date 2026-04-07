@@ -37,7 +37,7 @@
     A cell based "falling sand" type simulation sandbox engine with GPU heat, pressure & chemical simulations and Box2D cell objects which are capable of reacting with their environment. Built with a custom OpenGL rendering pipeline attached to SDL2. Currently a very rough and sometimes unstable prototype
    </p>
    <p>
-   <img src="https://img.shields.io/badge/Project%20in%20very%20unstable%20state-FF7400">
+   <img src="https://img.shields.io/badge/Project%20in%20very%20unstable%20state-FF7400"><br>
    <a href="https://github.com/Jan3385/VoxaEngine">
     <img src="https://img.shields.io/badge/View%20Repo-00b894?style=for-the-badge&logo=github&logoColor=white">
    </a>
