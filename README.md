@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff">
     <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff">
     <img src="https://img.shields.io/badge/GLFW-5586A4?logoColor=fff">
-    <br><div align="center"><img alt="project Showcase" src="/Projects/planet-generator.gif"></div>
+    <br><div align="center"><img alt="project Showcase" src="/Projects/planet-generator.webp"></div>
     <p align="center">
       A procedural planet generator made using OpenGL. Build with PBR & Blinn-Phong lighting support, multiple anti-aliasing methods and ECS (Entity Component System)
     </p>
@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff">
    <img src="https://img.shields.io/badge/SDL2-2C2D72?logo=libsdl&logoColor=fff">
    <img src="https://img.shields.io/badge/Box2D-EA6C2D?logoColor=fff">
-   <br><div align="center"><img alt="project Showcase" src="/Projects/voxaengine.gif"></div>
+   <br><div align="center"><img alt="project Showcase" src="/Projects/voxaengine.webp"></div>
    <p align="center">
     A cell based "falling sand" type simulation sandbox engine with GPU heat, pressure & chemical simulations and Box2D cell objects which are capable of reacting with their environment. Built with a custom OpenGL rendering pipeline attached to SDL2. Currently a very rough and sometimes unstable prototype
    </p>
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff">
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi">
-    <br><div align="center"><img alt="project Showcase" src="/Projects/YDR7-keyboard.png"></div>
+    <br><div align="center"><img alt="project Showcase" src="/Projects/YDR7-keyboard.webp"></div>
     <p align="center">
       A custom 96% keyboard (103 keys total) for MX switches utilizing the YD-RP2040 board. Supports individual key backlighting, an OLED display and separate keys for navigating the keyboard menu. Case, PCB and Firmware were build from scratch
     </p>
@@ -71,7 +71,7 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=444">
    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
-   <br><div align="center"><img alt="project Showcase" src="/Projects/web-survival.gif"></div>
+   <br><div align="center"><img alt="project Showcase" src="/Projects/web-survival.webp"></div>
    <p align="center">
     A basic 2D web game with procedural cell worlds that allows you to place, destroy and modify very roughly inspired by Minecraft. Features quests, levels, basic crafting and inventory. The lighting is procedurally calculated and at night enemies pathfind to you using the A* algorithm. Supports a very basic (and unsecured) PHP backend that allows creating accounts and saving your world to a server
    </p>
@@ -87,7 +87,7 @@
     <h3>Portal Gun Minecraft Mod</h3>
     <img src="https://img.shields.io/github/repo-size/Jan3385/PortalGunMod"><br>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-    <br><div align="center"><img alt="project Showcase" src="/Projects/portal-gun-mod.png"></div>
+    <br><div align="center"><img alt="project Showcase" src="/Projects/portal-gun-mod.webp"></div>
     <p align="center">
       A portal gun mod made for Minecraft Java inspired by the Rick & Morty's portal gun. Adds several brewing recipes & portal guns for easy world and dimensional travel
     </p>
