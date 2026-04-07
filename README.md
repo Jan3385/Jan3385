@@ -115,7 +115,7 @@
 <h2 align="center">Favorite tech to work with</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,unity,python,ts,linux,arch,raspberrypi,blender,vscode&perline=6">
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,unity,python,raspberrypi,ts,svelte,mysql,linux,arch,blender,vscode&perline=7">
 </p>
 <p align="center">I also wanna give rust a try one day</p>
 
