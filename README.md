@@ -93,7 +93,7 @@
     </p>
     <p>
     <a href="https://modrinth.com/mod/portal-gun-mod">
-      <img src="https://modrinth-shields.imgalvin.me/badge/portal-gun-mod">
+      <img src="https://img.shields.io/modrinth/dt/portal-gun-mod?logo=modrinth&color=008800">
     </a>
     <a href="https://www.curseforge.com/minecraft/mc-mods/portal-gun-mod">
       <img src="https://cf.way2muchnoise.eu/1171978.svg">
